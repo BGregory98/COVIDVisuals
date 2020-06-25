@@ -1,1 +1,2 @@
 # COVIDVisuals
+I've included all of the CSV files that you'll need to run the data wrangling code which should allow you to run all the other functions and visuals that are in the other R files. I apologize that it's all still kinda messy, I was not writing it with the understanding that anybody else would be reading/using it. The Functions.R file is a total mess and contains a lot of functions that I don't even really use anymore. 
